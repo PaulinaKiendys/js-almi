@@ -64,6 +64,8 @@ Startup companies that have been active for less than three years.
 
 - Hifi wireframe
 
+![Hifi wireframe](https://github.com/PaulinaKiendys/js-almi/blob/f329cfa2be9168acf51ea30bea336415001e3966/Wireframe.png)
+
 ### Timeline
 
 - 3 weeks
