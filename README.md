@@ -1,6 +1,6 @@
 # almi
 
-Simple [landing page](https://jovial-wing-e15648.netlify.app/) designed using Adobe XD, Illustrator and Photoshop and created using [Bootstrap 5.1](https://getbootstrap.com/)
+Simple [landing page](https://jovial-wing-e15648.netlify.app/) designed using Adobe XD, Illustrator and Photoshop and created using [Bootstrap 5.1](https://getbootstrap.com/).
 
 ## Table of contents
 * [Assignment requirements](#assignment-requirements)
@@ -25,16 +25,16 @@ Simple [landing page](https://jovial-wing-e15648.netlify.app/) designed using Ad
 
 ## Brief
 
-##### Client
+### Client
 Almi Företagspartner AB
 
-##### Primary objectives
+### Primary objectives
 To build a landing page for new businesses looking for a startup loan.
 
-##### Target audience
+### Target audience
 Startup companies that have been active for less than three years.
 
-##### Feature List (Product requirements)
+### Feature List (Product requirements)
 
 - Logo
 - Nav
