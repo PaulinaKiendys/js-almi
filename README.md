@@ -1,6 +1,6 @@
 # almi
 
-Simple [landing page](https://gifted-wescoff-55dd75.netlify.app/) designed using Adobe XD, Illustrator and Photoshop and created using [Bootstrap 5.1](https://getbootstrap.com/)
+Simple [landing page](https://jovial-wing-e15648.netlify.app/) designed using Adobe XD, Illustrator and Photoshop and created using [Bootstrap 5.1](https://getbootstrap.com/)
 
 ## Table of contents
 * [Assignment requirements](#assignment-requirements)
